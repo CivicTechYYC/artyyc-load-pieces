@@ -2,7 +2,7 @@
 Script to scrape city data and load it into our firebase datastore
 
 # To Run
-```
+```bash
  # Clone the repo
  $ git clone https://github.com/CivicTechYYC/artyyc-load-pieces \n
  
